@@ -1,0 +1,32 @@
+{
+  "product": [
+    {
+      "name": "A",
+      "price": "B",
+      "image": "C",
+      "categories": "D",
+      "id": "7161"
+    },
+    {
+      "name": "fawf",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5A8jYMLjb6xIUvtiLCPBY604npyxOZCVxYQ&usqp=CAU",
+      "price": "31231",
+      "categories": "1",
+      "id": "b88b"
+    },
+    {
+      "name": "tran cuong",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5A8jYMLjb6xIUvtiLCPBY604npyxOZCVxYQ&usqp=CAU",
+      "price": "111111111111111111",
+      "categories": "1",
+      "id": "3d08"
+    }
+  ],
+  "user": [
+    {
+      "name": "admin",
+      "pass": "123",
+      "id": "6fc5"
+    }
+  ]
+}

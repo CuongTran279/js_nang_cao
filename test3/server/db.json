@@ -1,0 +1,50 @@
+{
+  "product": [
+    {
+      "name": "test",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5A8jYMLjb6xIUvtiLCPBY604npyxOZCVxYQ&usqp=CAU",
+      "price": "200",
+      "quantity": "33333333",
+      "categories": "2",
+      "id": "f909"
+    },
+    {
+      "id": "490e",
+      "name": "test2",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5A8jYMLjb6xIUvtiLCPBY604npyxOZCVxYQ&usqp=CAU",
+      "price": "123",
+      "quantity": "1",
+      "categories": "1"
+    }
+  ],
+  "user": [
+    {
+      "name": "A",
+      "Pass": "B"
+    },
+    {
+      "id": "38a9",
+      "name": "0965864859cuong@gmail.com",
+      "pass": "123",
+      "email": "0965864859cuong@gmail.com"
+    },
+    {
+      "id": "b966",
+      "name": "admin",
+      "pass": "123",
+      "email": "0965864859cuong@gmail.com"
+    },
+    {
+      "id": "2417",
+      "name": "0965864859cuong@gmail.com",
+      "pass": "123",
+      "email": "0965864859cuong@gmail.com"
+    },
+    {
+      "id": "19f6",
+      "name": "0965864859cuong@gmail.com",
+      "pass": "123",
+      "email": "0965864859cuong@gmail.com"
+    }
+  ]
+}
